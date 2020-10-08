@@ -1,0 +1,15 @@
+body{
+     background: lavender;
+        }
+h1{
+   text-align: center;
+   color: indigo;
+}
+dt{
+			color: indigo;
+			background-color: lightyellow;
+			font-weight: bold 
+		}
+img{
+	alignment-baseline: central;
+}
