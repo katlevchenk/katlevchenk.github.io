@@ -1,5 +1,5 @@
 body{
- background: lavender;
+background: lavender;
 }
 h1{
 text-align: center;
@@ -14,10 +14,9 @@ img{
 alignment-baseline: central;
 }
 table{
-	border: 1px solid black;
-
+border: 1px solid black;
 }
 td,th{
-	box-sizing: border-box;
-	border: 1px solid black;
+box-sizing: border-box;
+border: 1px solid black;
 }
